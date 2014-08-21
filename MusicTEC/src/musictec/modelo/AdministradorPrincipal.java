@@ -8,8 +8,15 @@ package musictec.modelo;
 
 /**
  *
- * @author RUBEN
+ * @author Lucia
  */
 public class AdministradorPrincipal {
+    
+    public void agregarCancion(String ruta){
+        System.out.println("El Administrador detecta que debe agregar una nueva cancion: " + ruta);
+        
+        ///implementar logica
+        
+    }
     
 }
